@@ -1,1 +1,18 @@
+import os
+print("this is my first time")
+
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
+print("this is my first time")
 print("this is my first time")
